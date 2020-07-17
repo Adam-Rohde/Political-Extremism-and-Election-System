@@ -14,9 +14,4 @@ unable to be fully explored due to lack of Italian-specific knowledge. Additiona
 are ultimately necessary to validate the results for a more recent Italian electorate,
 and to study the ability to generalize such results to countries outside of Italy.
 
-Files:
-
-* Report: Political-Extremism-and-Election-System.pdf
-
-* R Code: AlexNetAnalysis.R
 
